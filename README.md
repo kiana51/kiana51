@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Kiana
+
+## I am currently learning about Data architectures 
+
+## Technical Skills: Python, SQL, R, Tableau
+
 
 <!--
 **kiana51/kiana51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
