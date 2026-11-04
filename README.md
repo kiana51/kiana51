@@ -36,5 +36,5 @@ insights that improved conversion pathways and guided campaign optimizations to 
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kiana-alize-diaz/
-- Portfolio: kianaalizediaz.com
+- LinkedIn: [linkedin.com/kiana-alize-diaz](https://www.linkedin.com/in/kiana-alize-diaz/)
+- Portfolio: [kianaalizediaz.com](https://kianaalizediaz.com/)
