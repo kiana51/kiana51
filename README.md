@@ -1,21 +1,40 @@
-## Hi there 👋 I'm Kiana
+# Hi, I'm Kiana! 👋
 
-## I am currently learning about Data architectures 
+Aspiring Data Analyst | Business Intelligence
+Computer Science Graduate | Data Analytics
 
-## Technical Skills: Python, SQL, R, Tableau
+I have a background in Computer Science and
+International Business, with postgraduate
+training in Data Analytics.
+
+I'm passionate about using data to solve
+business problems, identify trends, and
+support data-driven decision-making.
+
+## 🎓 Education
+- B.S. Computer Science – University of Florida
+- M.S. International Business - University of Florida
+- Postgraduate Certificate in Data Analytics - University of Sydney
+
+## 🛠 Technical Skills
+
+- SQL: MySQL, PostgreSQL
+- Programming: Python, R, Javascript
+- Analytics: Pandas, NumPy, Excel
+- Visualization: Power BI, Tableau
+- Tools: Git, GitHub, Jupyter Notebook
+
+## 📊 Featured Projects
 
 
-<!--
-**kiana51/kiana51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience Highlights
 
-Here are some ideas to get you started:
+- Dentavision: Dental Warehouse Billing & Data Analyst Intern reconciled accounts receivable from customers.
+- FLECKS @ University of Florida : Data Analysis Research Assistant improved intelligent agents for educational programs by developing Python-based solutions to process and clean audio data, increasing accuracy and efficiency in research workflows
+- COOP Careers: Digital Marketing Analytics Fellowship analyzed multi-channel advertising data to quantify audience performance and segment high-value customers, delivering
+insights that improved conversion pathways and guided campaign optimizations to maximize ROI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kiana-alize-diaz/
+- Portfolio: kianaalizediaz.com
