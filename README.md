@@ -1,7 +1,6 @@
 # Hi, I'm Kiana! 👋
 
-Aspiring Data Analyst | Business Intelligence
-Computer Science Graduate | Data Analytics
+Aspiring Data Analyst | Computer Science Graduate
 
 I have a background in Computer Science and
 International Business, with postgraduate
